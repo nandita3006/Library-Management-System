@@ -39,4 +39,3 @@ A full-stack MERN application that digitizes key library workflows—searching, 
 
 
 
-## 📁 Project Structure
